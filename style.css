@@ -199,6 +199,7 @@ input {
 }
 .test2 {
     text-align: left;
+    margin-right: 191px;
 }
 .line {
     width: 100%;
