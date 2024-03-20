@@ -183,6 +183,7 @@ h2 {
     justify-content: space-between;
     align-items: center;
     max-width: 1689px;
+    
 }
 input {
     display: block;
@@ -197,7 +198,7 @@ input {
     margin-bottom: 35px;
 }
 .test2 {
-    text-align: ;
+    text-align: left;
 }
 .line {
     width: 100%;
